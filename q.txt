@@ -71,5 +71,3 @@ for x in browsers:
 
 print("INFO | Script Starting..")
 
-DIR_PATH = os.path.realpath(__file__)
-os.remove(DIR_PATH)
